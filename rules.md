@@ -21,7 +21,8 @@ As stated above, as soon as we run into problems, we will communicate them to th
  Communication, and willingness to respond quickly is very important. The groupchat will be used for immediate issues such as syntax problems or other minor difficulties. A larger / more urgent issue may call for a meeting to resolve. With respect to our deadlines, we will all keep each other accountable in our groupchat with frequent reminders from everybody.
 
 ## Add any other rules that your team establishes to help each other work effectively together
--Make sure work is split up evenly, and that nobody is left behind or confused about what the group is trying to accomplish. -If you have to miss a team meeting make sure to let everybody know before hand and make sure anything neccesary to share has been shared. 
--In general, treat all members of the team with respect and courtesy, especially if you disagree with an idea!
+- Make sure work is split up evenly, and that nobody is left behind or confused about what the group is trying to accomplish.
+- If you have to miss a team meeting make sure to let everybody know before hand and make sure anything neccesary to share has been shared. 
+- In general, treat all members of the team with respect and courtesy, especially if you disagree with an idea!
 
 
