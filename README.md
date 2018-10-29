@@ -7,10 +7,10 @@
 
 2. Answer these questions
    * What are the GitHub usernames and names of your team members?
-       * GitHub username 1: trevorjwall       name 1: Trevor Wall
-       * GitHub username 2: summertriangle7   name 2: Sam Ng
-       * GitHub username 3: efulton2          name 3: Eddie Fulton
-       * GitHub username 4: ylin363           name 4: Yiyang Lin
+       * trevorjwall, Trevor Wall
+       * summertriangle7, Sam Ng
+       * efulton2, name 3: Eddie Fulton
+       * ylin363, Yiyang Lin
 
    * When did you complete this exercise? 
      Sunday October 28th
