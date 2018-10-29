@@ -55,17 +55,17 @@ need a list of players to return
 
 
 Name each interface or class and briefly describe its function or purpose.
-Player ADT
-Stat ADT
-getPlayer
- -getPlayerByName
- -getPlayerByPosition
- -etc
- updatePlayer
-  -calls stat specified
-  -updates specified stat
-PlayerList<Player>
-StatList<Stat>
+- Player ADT
+- Stat ADT
+- getPlayer
+  - getPlayerByName
+  - getPlayerByPosition
+  - etc
+- updatePlayer
+  - calls stat specified
+  - updates specified stat
+- PlayerList<Player>
+- StatList<Stat>
 
 
 
