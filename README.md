@@ -9,7 +9,7 @@
    * What are the GitHub usernames and names of your team members?
        * trevorjwall, Trevor Wall
        * summertriangle7, Sam Ng
-       * efulton2, name 3: Eddie Fulton
+       * efulton2, Eddie Fulton
        * ylin363, Yiyang Lin
 
    * When did you complete this exercise? 
